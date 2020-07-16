@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 560px;
+    position: absolute;
+    top: 0; right: 0;
+    bottom: 0; left: 0;
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#center {
+    text-align: center;
+}
+
+#pls {
+    font-size: 10px;
+    text-align: center;
+}
